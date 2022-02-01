@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "88F67963-DC1E-41C5-B947-3176CF7BF626"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewProgrammatic/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8 - f23abeec8282247d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProgrammatic.ViewController.arrayOfTitle.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "TableViewProgrammatic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emiliano/Desktop/TableViewProgrammatic/TableViewProgrammatic/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8 - 4689080b1801a869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProgrammatic.ViewController.arrayOfTitle.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "TableViewProgrammatic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emiliano/Desktop/TableViewProgrammatic/TableViewProgrammatic/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8 - 595c4405a0474fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProgrammatic.ViewController.arrayOfTitle.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "TableViewProgrammatic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emiliano/Desktop/TableViewProgrammatic/TableViewProgrammatic/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8 - a4a210e695707920"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProgrammatic.ViewController.arrayOfTitle.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TableViewProgrammatic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emiliano/Desktop/TableViewProgrammatic/TableViewProgrammatic/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8 - 49d4e194c683d656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProgrammatic.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TableViewProgrammatic.ViewController"
+                  moduleName = "TableViewProgrammatic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emiliano/Desktop/TableViewProgrammatic/TableViewProgrammatic/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "165">
+               </Location>
+               <Location
+                  uuid = "A05745A6-CDFA-46CD-90F3-5917C5A56FF8 - 15cb7ac876bdde14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewProgrammatic.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TableViewProgrammatic.ViewController&gt;"
+                  moduleName = "TableViewProgrammatic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emiliano/Desktop/TableViewProgrammatic/TableViewProgrammatic/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
