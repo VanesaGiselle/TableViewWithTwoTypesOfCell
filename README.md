@@ -16,3 +16,4 @@ La app busca crear una tabla con diferentes estilos de celda.
 - Run (Control + R).
 
 ## ScreenShots
+<img width="307" alt="Screen Shot 2022-02-01 at 09 29 02" src="https://user-images.githubusercontent.com/91626112/151970217-42dc25c7-cdcd-4171-b012-944d18dad2be.png">
